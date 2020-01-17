@@ -1,0 +1,1 @@
+New contributing file
